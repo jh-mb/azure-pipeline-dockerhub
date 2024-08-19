@@ -4,7 +4,7 @@
   "description": "Aplicación simple de Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node App/index.js"
   },
   "author": "Javier Martínez",
   "license": "MIT",
