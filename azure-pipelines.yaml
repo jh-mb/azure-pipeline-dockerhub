@@ -2,7 +2,7 @@ trigger:
   - master
 
 pool:
-  name: Default
+  name: ubuntu
 
 variables:
   project-name-dev: "martinezbjavier"
