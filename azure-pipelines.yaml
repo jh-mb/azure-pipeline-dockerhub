@@ -2,7 +2,7 @@ trigger:
   - master
 
 pool:
-  name: my_agent_pool
+  name: ubuntu_container
 
 variables:
   project-name-dev: "martinezbjavier"
