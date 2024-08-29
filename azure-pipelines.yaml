@@ -2,7 +2,7 @@ trigger:
   - master
 
 pool:
-  vmImage: 'ubuntu-latest'
+  name: my_agent_pool
 
 variables:
   project-name-dev: "martinezbjavier"
